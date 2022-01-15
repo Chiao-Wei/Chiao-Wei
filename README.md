@@ -1,4 +1,4 @@
-### My name is Chiao-Wei, and I go to nycu. My hobbies are reading and listening to music.
+### My name is Chiao-Wei. My hobbies are reading and listening to music.
 
 - 👋 Hi, I’m @Chiao-Wei
 - 👀 I’m interested in ...
